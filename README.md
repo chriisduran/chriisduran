@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone! 👋
 
 I am Chris, a programmer with over 3 years of experience in the development of android apps. 
 Throughout my career, I have had the opportunity to work on innovative and challenging projects that have allowed me to develop a wide range of skills and knowledge. 
