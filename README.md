@@ -4,7 +4,7 @@
 
 | About Me. | dev stats. |
 | ------ | ------ |
-|I´m Chris, a programmer with over 3 years of experience in the development of android apps.<br>Throughout my career, I have had the opportunity to work on innovative and challenging projects that have allowed me to develop a wide range of skills and knowledge.<br><br>Sometimes i write dev/tech articles in: <br><br>[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chriisduran)<br> [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@chriisduran)<br> [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://chriisduran.medium.com/)<br><br>You can support me on: <br>[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chriisduran)<br>[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/chriisduran)<br>[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/CAD1994)|<a href="https://app.daily.dev/cad1994"><img src="https://api.daily.dev/devcards/464b6172189e43608b50ad833008d002.png?r=skr" width="400" alt="Christopher's Dev Card"/>
+|I´m Chris, a programmer with over 3 years of experience in the development of android apps.<br>Throughout my career, I have had the opportunity to work on innovative and challenging projects that have allowed me to develop a wide range of skills and knowledge.<br><br>✍🏻 Sometimes i write dev/tech articles in: <br><br>[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/chriisduran)<br> [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@chriisduran)<br> [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://chriisduran.medium.com/)<br><br>🪙 You can support me on: <br>[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chriisduran)<br>[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/chriisduran)<br>[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/CAD1994)|<a href="https://app.daily.dev/cad1994"><img src="https://api.daily.dev/devcards/464b6172189e43608b50ad833008d002.png?r=skr" width="400" alt="Christopher's Dev Card"/>
 </a>
 
 ## Being hired I have worked with programmer technologies such as: 
@@ -47,7 +47,7 @@
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
 
-   ## I've developed project in a self-taught way using:
+   ## I've developed projects in a self-taught way using:
 
    [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://es.react.dev/)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
